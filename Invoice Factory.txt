@@ -1,0 +1,33 @@
+Invoice Factory
+
+1. Prilikom logovanja izbacuje da je za sifru potrebno 6 karaktera cak i kada unesem sesti.
+
+2. Kada na Invoices List strani unosim From i To za datum, posle selektovanja From, i dalje imam mogucnst
+	
+   da selektujem To koji ide u vreme pre From. Kao da rezervisem sutrasnju kartu za avion a datum povratka
+   
+   stavljam prekjuce.
+
+3. Na Add New Invoice stranici, ukoliko ne popunjavam fakturu po redu, ispod Currency pise First Choose Business,
+
+   dok ispod Select Business pise First Choose Currency, tako da je jedno uslovljeno drugim i mogu da se vrtim u grug.
+
+   Tek kada kliknem na Select Business ispod istog polja ce se pojaviti The bank field is required, dok nijedno polje
+
+   nije jasno definisano kao Bank. 
+
+4. Na Add New Invoice stranici kada kliknem na Add u Invoice Contents i unosim podatke u Days, Hours, Rate per hour
+
+   smatram da bi bilo bolje da se 0(nula) koja vec stoji kao uneta automatski izbrise prilikom mog unosta podataka.
+
+5. Na Add New Invoice stranici kada kliknem na Add u Invoice Contents i unosim podatke u Days, Hours, Rate per hour
+   
+   mogu da unosim i negativne brojeve u pomenuta polja.
+
+6. Kada na Add New Invoice stranici kliknem na Add u Invoice Contents i unosim podatke u Days, Hours, Rate per hour
+
+   i u sva polja unesem negativne brojeve u polju Amount je pozitivan broj. Ukoliko dane ili sate unesemo pozitivne
+
+   brojeve a satnicu stavimo negativnu dobicemo u Amountu negativan broj.
+
+     
